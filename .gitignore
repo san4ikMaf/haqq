@@ -4,3 +4,5 @@
 *.swo
 *.swl
 *.swm
+*.swn
+.vscode
