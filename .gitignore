@@ -9,3 +9,7 @@
 .idea
 *.pyc
 *.exe
+*.exe~
+*.dll
+*.so
+*.dylib
