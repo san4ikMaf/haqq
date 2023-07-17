@@ -7,3 +7,5 @@
 *.swn
 .vscode
 .idea
+*.pyc
+*.exe
