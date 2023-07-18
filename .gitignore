@@ -15,3 +15,5 @@
 *.dylib
 
 # Build
+*.test
+.glide/
