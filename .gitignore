@@ -17,3 +17,5 @@
 # Build
 *.test
 .glide/
+vendor
+build
