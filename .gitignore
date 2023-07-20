@@ -19,3 +19,4 @@
 .glide/
 vendor
 build
+bin
