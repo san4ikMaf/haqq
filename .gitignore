@@ -36,3 +36,5 @@ keyring_test_cosmos
 secret.yml
 artifacts/*
 # vue/
+
+# Local docker volume mappings
