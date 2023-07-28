@@ -38,3 +38,5 @@ artifacts/*
 # vue/
 
 # Local docker volume mappings
+localnet-setup
+.testnets
