@@ -40,3 +40,5 @@ artifacts/*
 # Local docker volume mappings
 localnet-setup
 .testnets
+
+# Testing
