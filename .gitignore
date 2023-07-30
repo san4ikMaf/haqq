@@ -36,7 +36,10 @@ keyring_test_cosmos
 secret.yml
 artifacts/*
 # vue/
-
+coverage.txt
+*.out
+sim_log_file
+tests/**/tmp/*
 # Local docker volume mappings
 localnet-setup
 .testnets
