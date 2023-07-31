@@ -45,3 +45,6 @@ localnet-setup
 .testnets
 
 # Testing
+coverage.txt
+*.out
+sim_log_file
