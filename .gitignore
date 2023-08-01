@@ -48,3 +48,6 @@ localnet-setup
 coverage.txt
 *.out
 sim_log_file
+tests/**/tmp/*
+
+# Vagrant
