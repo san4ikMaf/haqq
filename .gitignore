@@ -53,3 +53,5 @@ tests/**/tmp/*
 # Vagrant
 .vagrant/
 *.box
+*.log
+vagrant
