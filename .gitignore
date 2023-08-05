@@ -62,3 +62,6 @@ vagrant
 
 # Graphviz
 dependency-graph.png
+
+# Latex
+*.aux
