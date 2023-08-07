@@ -69,3 +69,5 @@ dependency-graph.png
 *.synctex.gz
 
 # Contracts
+*.bin
+*.abi
