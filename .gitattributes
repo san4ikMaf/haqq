@@ -3,3 +3,4 @@ client/docs/statik/* linguist-vendored
 third-party/* linguist-vendored
 client/docs/* linguist-documentation
 docs/* linguist-documentation
+x/**/spec/* linguist-documentation
