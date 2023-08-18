@@ -4,3 +4,4 @@ third-party/* linguist-vendored
 client/docs/* linguist-documentation
 docs/* linguist-documentation
 x/**/spec/* linguist-documentation
+**/*.pb.go linguist-generated
