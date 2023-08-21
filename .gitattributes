@@ -5,3 +5,4 @@ client/docs/* linguist-documentation
 docs/* linguist-documentation
 x/**/spec/* linguist-documentation
 **/*.pb.go linguist-generated
+**/*.pb.gw.go linguist-generated
