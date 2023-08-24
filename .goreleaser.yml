@@ -1,2 +1,5 @@
 before:
   hooks:
+  - go mod download
+
+builds:
