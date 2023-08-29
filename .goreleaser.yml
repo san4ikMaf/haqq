@@ -4,3 +4,4 @@ before:
 
 builds:
   - id: "haqqd-darwin"
+    main: ./cmd/haqqd
