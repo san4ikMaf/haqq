@@ -11,3 +11,5 @@ builds:
       - CC=o64-clang
       - CXX=o64-clang++
     goos:
+      - darwin
+    goarch:
