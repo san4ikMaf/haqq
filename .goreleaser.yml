@@ -24,3 +24,5 @@ builds:
     env:
       - CGO_ENABLED=1
       - CC=oa64-clang
+      - CXX=oa64-clang++
+    goos:
