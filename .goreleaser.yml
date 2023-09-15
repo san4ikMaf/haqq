@@ -30,3 +30,5 @@ builds:
     goarch:
       - arm64
     flags:
+      - -tags=cgo
+    ldflags:
