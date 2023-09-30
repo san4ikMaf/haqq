@@ -61,3 +61,6 @@ builds:
       - arm64
     flags:
       - -tags=cgo
+    ldflags:
+      - -s -w -X github.com/cosmos/cosmos-sdk/version.Name=haqq -X github.com/cosmos/cosmos-sdk/version.AppName=haqqd -X github.com/cosmos/cosmos-sdk/version.Version={{.Version}} -X github.com/cosmos/cosmos-sdk/version.Commit={{.Commit}}
+  - id: "haqqd-windows"
