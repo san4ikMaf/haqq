@@ -75,3 +75,5 @@ builds:
     goarch:
       - amd64
     flags:
+        - -tags=cgo
+    ldflags:
