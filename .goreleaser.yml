@@ -103,3 +103,5 @@ builds:
     goos:
       - windows
     goarch:
+      - amd64
+    flags:
