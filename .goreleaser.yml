@@ -117,3 +117,5 @@ builds:
       - CXX=oa64-clang++
     goos:
       - darwin
+    goarch:
+      - arm64
