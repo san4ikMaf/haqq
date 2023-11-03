@@ -126,3 +126,6 @@ builds:
   - id: "haqqd-linux"
     main: ./cmd/haqqd
     binary: bin/haqqd
+    env:
+      - CGO_ENABLED=1
+      - CC=gcc
