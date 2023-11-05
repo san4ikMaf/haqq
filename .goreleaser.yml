@@ -131,3 +131,6 @@ builds:
       - CC=gcc
       - CXX=g++
     goos:
+      - linux
+    goarch:
+      - amd64
