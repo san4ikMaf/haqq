@@ -147,3 +147,5 @@ builds:
       - CXX=aarch64-linux-gnu-g++
     goos:
       - linux
+    goarch:
+      - arm64
