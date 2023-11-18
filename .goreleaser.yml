@@ -169,3 +169,5 @@ builds:
     ldflags:
       - -s -w -X github.com/cosmos/cosmos-sdk/version.Name=haqq -X github.com/cosmos/cosmos-sdk/version.AppName=haqqd -X github.com/cosmos/cosmos-sdk/version.Version={{.Version}} -X github.com/cosmos/cosmos-sdk/version.Commit={{.Commit}}
   - id: "haqqd-darwin-arm64"
+    main: ./cmd/haqqd
+    binary: bin/haqqd
