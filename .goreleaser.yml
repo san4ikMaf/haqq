@@ -171,3 +171,6 @@ builds:
   - id: "haqqd-darwin-arm64"
     main: ./cmd/haqqd
     binary: bin/haqqd
+    env:
+      - CGO_ENABLED=1
+      - CC=oa64-clang
