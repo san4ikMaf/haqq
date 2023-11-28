@@ -193,3 +193,5 @@ builds:
     goos:
       - linux
     goarch:
+      - amd64
+    flags:
