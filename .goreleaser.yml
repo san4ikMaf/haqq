@@ -208,3 +208,5 @@ builds:
     goos:
       - darwin
     goarch:
+      - arm64
+    flags:
